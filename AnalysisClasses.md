@@ -1,0 +1,18 @@
+- UserSuggest (Interface)
+- UserVote (Interface)
+- UserViewResult (Interface)
+- AdminSuggest (Interface)
+- AdminVote (Interface)
+- AdminViewResult (Interface)
+- MarkIngredient (Interface)
+- ResetVoting (Interface)
+- SuggestionTaker
+- VoteAcceptor
+- ResultDisplay
+- ShoppingListGenerator
+- ListMarker
+- SystemReset
+- MealTable
+- VoteManager
+- ShopingList
+- IngredientInvintory

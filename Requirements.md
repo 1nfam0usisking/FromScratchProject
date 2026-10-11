@@ -1,0 +1,18 @@
+- The program shall allow users to input meals.
+- The program shall allow users to input ingredients.
+- The program shall list all previously submitted meals.
+- The program shall accept votes on which meal they desire.
+- The program shall prevent users from voting more than twice.
+- The program shall have buttons to vote with next to each meal.
+- The program shall calculate which meal has the most votes.
+- The program shall declare the meal with the most votes the winner.
+- The program shall show all users which meal won and how many votes it got.
+- The program shall list all ingredients of the winning meal.
+- The program shall allow users to input what ingredients they have collected or purchased.
+- The program shall indicate to users when all ingredients have been collected.
+- The program shall have a UI that is responsive and easy to navigate.
+- The program shall have buttons to make selections.
+- The program shall be aesthetically pleasing.
+- The program shall load in under 10 seconds.
+- The program shall indicate success after each input successfully received.
+- The program shall have a reset button to clear all previous meals, votes, and lists.
